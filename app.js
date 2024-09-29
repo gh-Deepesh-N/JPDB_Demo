@@ -2,7 +2,7 @@ $(document).ready(function() {
     const jpdbBaseURL = "http://api.login2explore.com:5577";
     const jpdbIRL = "/api/irl";
     const jpdbIML = "/api/iml";
-    const connToken = "90931980|-31949224693469031|90962504";  // Replace with your actual token
+    const connToken = "90931980|-31949224693469031|90962504"; 
     const dbName = "SCHOOL-DB";
     const relName = "STUDENT-TABLE";
 
