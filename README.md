@@ -33,7 +33,7 @@ This project is a simple web-based **Student Enrollment Form** that integrates w
 ## Usage
 - **Add New Student**: Enter Roll-No and fill out other fields. Click **Save**.
 - **Update Student Record**: Enter Roll-No, modify the fields, and click **Update**.
-- **Reset Form**: Click **Reset** to clear all inputs.
+- Click **Reset** to clear all inputs.
  ![Alt Text](![Screenshot 2024-09-29 194749](https://github.com/user-attachments/assets/2ead0851-e38d-4c76-8f4e-d8c5c74a1f5b)
 ) 
 
