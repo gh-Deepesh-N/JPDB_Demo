@@ -1,4 +1,4 @@
-# Student Enrollment Form with JSON Power DB
+![Screenshot 2024-09-29 194749](https://github.com/user-attachments/assets/685a74fa-bf28-4c7c-9e02-bb23dc6c9f3d)# Student Enrollment Form with JSON Power DB
 
 ## Description
 This project is a simple web-based **Student Enrollment Form** that integrates with **JSON Power DB** for handling student records. The form allows users to add, update, and manage student details like Roll-No, Full-Name, Class, Birth-Date, and more.
@@ -34,6 +34,8 @@ This project is a simple web-based **Student Enrollment Form** that integrates w
 - **Add New Student**: Enter Roll-No and fill out other fields. Click **Save**.
 - **Update Student Record**: Enter Roll-No, modify the fields, and click **Update**.
 - **Reset Form**: Click **Reset** to clear all inputs.
+- **output** ![Alt Text](![Screenshot 2024-09-29 194749](https://github.com/user-attachments/assets/2ead0851-e38d-4c76-8f4e-d8c5c74a1f5b)
+) 
 
 ## Scope of Functionalities
 - Add new student records to the database.
@@ -42,6 +44,7 @@ This project is a simple web-based **Student Enrollment Form** that integrates w
 
 ## Examples of Use
 - Educational institutions can use this form to manage student enrollments efficiently.
+
 
 ## Project Status
 - **Current Version**: v1.0.0 - Fully functional with basic CRUD operations.
